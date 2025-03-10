@@ -1,2 +1,2 @@
 # Farmacia
-Formularios y Validacione
+Formularios y Validaciones
